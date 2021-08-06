@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supparerk23&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Supparerk23)
 
 <!---
 Supparerk23/Supparerk23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
