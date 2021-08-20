@@ -7,7 +7,6 @@ I’m **@Supparerk23**
 [![Linkedin Badge](https://img.shields.io/badge/-Supparerk%20Arikarn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supparerk-arikarn-862a8915a/)](https://www.linkedin.com/in/supparerk-arikarn-862a8915a/)
 [![Gmail Badge](https://img.shields.io/badge/-supparerk.arikarn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:supparerk.arikarn@gmail.com)](mailto:supparerk.arikarn@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-krer.apus-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/krer.apus/)](https://www.instagram.com/krer.apus/)
-![](https://visitor-badge.glitch.me/badge?page_id=Supparerk23.Supparerk23)
 
 ## ⚡ Technologies
 
